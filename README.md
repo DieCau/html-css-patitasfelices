@@ -9,13 +9,8 @@ Probá el proyecto [aqui](https://patitasfelicesgrupo1.netlify.app/)
 
 ---
 
-## **👥 Autores**  
-- **Ana Sofia Cisterna**  
-- **Ignacio Nazar**  
-- **Ismael Isa**  
-- **Marcos Joel Tebis**  
-- **Omar Mattos**  
-- **Tobias Conde**  
+## **👥 Autor**  
+- **Diego Caucota**  
 
 ---
 
