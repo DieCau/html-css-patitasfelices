@@ -193,30 +193,6 @@ main {
   text-align: center;
 }
 
-/* Desarrolladores */
-.desarrollador-foto {
-  height: 200px;
-  object-fit: cover;
-  object-position: 50% 50%;
-  width: 200px;
-}
-
-.ismael {
-  object-position: 50% 0%;
-}
-
-.marcos {
-  object-position: 50% 0%;
-}
-
-.omar {
-  object-position: 50% 100%;
-}
-
-.sofia {
-  object-position: 50% 58%;
-}
-
 /* Login */
 .login-container {
   padding: 20px;
